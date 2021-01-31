@@ -1,4 +1,4 @@
-# augejs
+# [augejs](https://github.com/augejs/augejs.github.io)
 
 [![npm version](https://badge.fury.io/js/%40augejs%2Fcore.svg)](https://www.npmjs.com/package/@augejs/core) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
@@ -40,6 +40,26 @@ This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go che
 
 ```sh
 npm install @augejs/core
+```
+
+## Usage
+
+```javascript
+import { Module, boot } from '@augejs/core';
+
+// we use a @Module decorator to define a module
+@Module()
+class AppModule {
+  async onInit() {
+    // the onInit lifecycle method will be called when application boot
+    console.log('hello augejs');
+  }
+}
+
+(async () => {
+  // boot the whole application by module.
+  await boot(AppModule);
+})();
 ```
 
 ## Document
