@@ -55,7 +55,7 @@ class AppModule {
 
 we can use `@LifecycleOnInitHook` , `@LifecycleOnAppWillReadyHook`, `@LifecycleOnAppDidReadyHook`, `@LifecycleOnAppWillCloseHook` decorator to class.
 
-```javascript
+```ts
 import { Module, boot } from '@augejs/core';
 
 @Module()
