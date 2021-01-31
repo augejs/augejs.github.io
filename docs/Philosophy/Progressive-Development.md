@@ -14,26 +14,6 @@ https://github.com/augejs/augejs.github.io
 
 `augejs` application has the design philosophy of `Composition over inheritance`. The `augejs` core layer is small and simple. It supports the `Module`, `Provider`, `Decorator` to Composite the application.
 
-### Webserver of Application
-
-```ts
-import { Module, boot } from '@augejs/core';
-import { WebServer } from '@augejs/koa';
-
-@WebServer()
-@Module()
-class AppModule {
-  @RequestMapping.Get('ping')
-  ping() {
-    return 'pong';
-  }
-}
-
-(async () => {
-  await boot(AppModule);
-})();
-```
-
 ### Webserver(Koa) Application
 
 ```ts
