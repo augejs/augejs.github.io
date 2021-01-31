@@ -30,9 +30,9 @@ https://github.com/augejs/augejs.github.io
 ## Features
 
 + :penguin: Support TypeScript (version 4.0 or higher).
-+ :penguin: Minimum core to start with，support plugin by using Extend and Adapter.
-+ :baby_chick: Excellent performance with high unit test coverage rate.
-+ :baby_chick: Progressive Development.
++ :shell: Minimum core to start with，support plugin by using Extend and Adapter.
++  :lollipop: ​Excellent performance with high unit test coverage rate.
++ :bread: Progressive Development.
 
 ## Install
 
