@@ -69,7 +69,6 @@ class AppModule {
 + [IOC](./docs/Philosophy/IOC.md)
 + [Application](./docs/Philosophy/Application.md)
 + [Boot](./docs/BasicFunction/boot.md)
-+ [Hook](./docs/BasicFunction/Hook.md)
 + [Progressive Development](./docs/Philosophy/Progressive-Development.md)
 
 ### Basic Function

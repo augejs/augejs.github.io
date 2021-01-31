@@ -19,7 +19,7 @@ Inversion of Control is a common phenomenon that you come across when extending 
 ## Usage
 
 ```ts
-import { Module } from '@augejs/core';
+import { Module, Inject } from '@augejs/core';
 import { AXIOS_IDENTIFIER, AxiosInstance } from '@augejs/axios';
 @Module()
 class AppModule {
@@ -27,3 +27,5 @@ class AppModule {
   httpService!: AxiosInstance;
 }
 ```
+
+We use the `@Inject` decorator to inject the instance.
