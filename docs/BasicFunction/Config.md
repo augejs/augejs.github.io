@@ -53,6 +53,10 @@ class AppModule {}
 
 Command Line Parameters > FileConfig > Config
 
+## Configuration Validation
+
+We can use the `ConfigLoader` decorator to validate the configuration.
+
 ## Configuration Runtime Value
 
 ```ts
