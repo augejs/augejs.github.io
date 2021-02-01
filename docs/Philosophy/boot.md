@@ -10,10 +10,6 @@
 
 https://github.com/augejs/augejs.github.io
 
-## Inversion of control (IoC) container
-
-Inversion of Control is a common phenomenon that you come across when extending frameworks. Indeed it's often seen as a defining characteristic of a framework.  --- [Martin Fowler](https://www.martinfowler.com/bliki/InversionOfControl.html)
-
 ## Lifecycle of `Module` and `Provider`
 
 ### Instance method lifecycle hook
