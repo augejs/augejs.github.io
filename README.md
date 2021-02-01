@@ -10,6 +10,8 @@
 
 https://github.com/augejs/augejs.github.io
 
+:card_index: [PPT Link](./docs/assets/augejs_2.pdf)
+
 ## Table of Contents
 
 - [Description](#description)
