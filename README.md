@@ -2,15 +2,13 @@
 
 [![npm version](https://badge.fury.io/js/%40augejs%2Fcore.svg)](https://www.npmjs.com/package/@augejs/core) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-<img height="100px" src="./docs/assets/logo.svg">
+<a href="./docs/assets/augejs_2.pdf" title="augejs" target="_blank"><img height="100px" src="./docs/assets/logo.svg"></a>
 
 [`augejs`](https://github.com/augejs/augejs.github.io) is a progressive Node.js framework for building applications.
 
 :star2: Star us on GitHub — it helps! :clap:
 
 https://github.com/augejs/augejs.github.io
-
-:card_index: [PPT Link](./docs/assets/augejs_2.pdf)
 
 ## Table of Contents
 
