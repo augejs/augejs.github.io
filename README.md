@@ -31,7 +31,7 @@ https://github.com/augejs/augejs.github.io
 
 + :penguin: Support TypeScript (version 4.0 or higher).
 + :shell: Minimum core to start with，support plugin by using Extend and Adapter.
-+  :lollipop: ​Excellent performance with high unit test coverage rate.
++ :lollipop: Excellent performance with high unit test coverage rate.
 + :bread: Progressive Development.
 
 ## Install
@@ -97,7 +97,7 @@ class AppModule {
 + [TypeOrm](./docs/StandardModules/TypeOrm.md)
 + [Views](./docs/StandardModules/Views.md)
 
-### Koa-Modules
+### Koa Modules
 
 + [Koa-bodyParser](./docs/StandardModules/Koa-bodyParser.md)
 + [Koa-compress](./docs/StandardModules/Koa-compress.md)
@@ -107,11 +107,11 @@ class AppModule {
 + [Koa-session](./docs/StandardModules/Koa-session.md)
 + [Koa-static](./docs/StandardModules/Koa-static.md)
 
-### Other-Modules
+### Other Modules
 
 ...
 
-## :beers:Examples
+## Examples
 
 see the [Examples](https://github.com/augejs/examples). :open_book:
 
